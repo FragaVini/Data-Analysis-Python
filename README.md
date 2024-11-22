@@ -17,3 +17,19 @@ In this section I will list the data analysis projects, describing the technolog
 **Skills:** data cleaning, data analysis, correlations, hypothesis testing, data visualization.
 
 **Techonlogies:** Python, Pandas, Seaborn, Matplotlib, SciPy.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Medical costs
+
+**Code:** [`Medical Costs.ipynb`](https://github.com/FragaVini/Data-Analysis-Python/blob/main/Medical_Costs.ipynb)
+
+**Goal:** Identify the variables that influence medical costs
+
+**Description:** The project aimed to analyse the dataset that contains detailed information on the medical costs of individuals from 2010 to 2020. It includes various attributes such as age, gender, BMI, number of children, smoking status and region. The project included loading the database, exploratory data analysis and descriptive analysis, and creating graphs to better present the data. In addition, a correlation matrix was created to analyse the correlations between the variables.
+
+**Results:** The only statistically significant correlation was between smoking status and medical costs, with smokers having higher medical costs. Medical costs between regions were similar.
+
+**Skills:** data analysis, correlations, data visualization.
+
+**Techonlogies:** Python, Pandas, Seaborn, Matplotlib, Scikit-Learn.
