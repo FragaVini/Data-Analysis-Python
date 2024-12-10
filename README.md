@@ -6,7 +6,7 @@ In this section I will list the data analysis projects, describing the technolog
 
 ### Ranking sports by skill requirement
 
-**Code:** [`Ranking sports by skill requirement.ipynb`](https://github.com/FragaVini/Data-Analysis-Python/blob/main/Sport_Skills.ipynb)
+**Code:** [`Ranking sports by skill requirement.py`](https://github.com/FragaVini/Data-Analysis-Python/blob/main/Sport_Skills.py)
 
 **Goal:** Identify the relationships between skills and their influence on the ranking
 
