@@ -38,7 +38,7 @@ In this section I will list the data analysis projects, describing the technolog
 
 ### USA House Prices
 
-**Code:** [`USA House Prices.ipynb`](https://github.com/FragaVini/Data-Analysis-Python/blob/main/Medical_Costs.ipynb)
+**Code:** [`USA House Prices.ipynb`](https://github.com/FragaVini/Data-Analysis-Python/blob/main/USA_House_Prices.ipynb)
 
 **Goal:** To analyse the influence of variables on house prices in the USA.
 
