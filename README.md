@@ -50,3 +50,18 @@ In this section I will list the data analysis projects, describing the technolog
 
 **Techonlogies:** Python, Pandas, Seaborn, Numpy, Matplotlib, SciPy.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Student Performance Factors
+
+**Code:** [`Student Performance Factors.ipynb`](https://github.com/FragaVini/Data-Analysis-Python/blob/main/Student_Factors.ipynb)
+
+**Goal:** To analyse the variables that influence student performance.
+
+**Description:** The aim of the project was to analyse the dataset containing information about student performance in the final exam, together with their habits, attendance and information about their parents. The project included loading the database, data cleaning, exploratory data analysis and descriptive analysis. In addition, a group analysis was carried out to better assess the possible influence of variables on the final exam result. A correlation matrix was created to analyse the correlations between the variables. Finally, a linear regression was carried out to predict the exam result. Firstly only with the variables hours studied and attendance, and then with all the variables.
+
+**Results:** The variables with the greatest influence on the exam result are hours studied and attendance, while the other variables do not show significant correlations. The linear regression with the highest predictive power was with all the variables and the database without outliers. The problem was that it was not possible to detect the significance of the new variables added.
+
+**Skills:** data cleaning, data analysis, correlations, hypothesis testing, data visualisation, machine learning, simple and multiple linear regression, statistics.
+
+**Techonlogies:** Python, Pandas, Seaborn, Numpy, Matplotlib, Scikit-Learn.
